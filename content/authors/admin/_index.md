@@ -91,7 +91,7 @@ work:
     date_start: 2022-10-13
     date_end: ''
     summary: |2-
-      "
+      
        
   - position: Researcher
     company_name: Prince of Songkhla University (PSU, Hatyai campus) & Geo-Informatics & Space Technology Development Agency (GISDTA, Sriracha), Thailand
@@ -100,7 +100,7 @@ work:
     date_start: 2022-08-01
     date_end: 2023-08-30
     summary: |
-      "
+      
   
   - position: Researcher Assistant (RA) and Freelance Researcher (FR)
     company_name: Joint Graduate School of Energy and Environment (JGSEE), King Mongkut’s University of Technology Thonburi, Thailand
@@ -109,7 +109,7 @@ work:
     date_start: 2022-08-01
     date_end: 2023-08-30
     summary: |
-      "
+      
 
   - position: Research and Teaching Assistant (RA/TA)
     company_name: Land Resources Department, Can Tho University, Vietnam
@@ -118,7 +118,7 @@ work:
     date_start: 2016-03-01
     date_end: 2019-07-30
     summary: |
-      "
+      
 
   - position: Visiting Researcher
     company_name: KMUTT Geospatial Engineering and Innovation Center (KGEO), King Mongkut’s University of Technology Thonburi, Thailand
@@ -126,8 +126,8 @@ work:
     company_logo: ''
     date_start: 2017-12-01
     date_end: 2018-06-30
-    summary: |
-       "
+    
+       
 
 ############################################################################################################################################
 # Skills

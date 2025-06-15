@@ -1,6 +1,6 @@
 ---
 title: 'Experience'
-date: 2023-10-24
+date: 2025-06-15
 type: landing
 
 design:
@@ -9,6 +9,11 @@ design:
 # Note: `username` refers to the user's folder name in `content/authors/`
 
 # Page sections
+
+
+[Full Curriculum Vitae](https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true)
+
+
 sections:
   - block: resume-experience
     content:
@@ -23,11 +28,7 @@ sections:
       title: Skills & Hobbies
       username: admin
     design:
-      show_skill_percentage: false
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
+      show_skill_percentage: true
   - block: resume-languages
     content:
       title: Languages
