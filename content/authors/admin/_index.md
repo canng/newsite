@@ -138,7 +138,7 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: icons8-python
+        icon: assets/media/icons/icons8-python.svg
       - name: Python
         description: ''
         percent: 90
