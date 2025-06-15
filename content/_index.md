@@ -35,9 +35,7 @@ sections:
       title: ''
       subtitle: ''
       text: |-
-        <p style="font-size: 18px; text-align: justify"> 
-        <b>Can T. Nguyen</b> is a junior scientist. He is currently working as a researcher at Environmental Footprint Lab, <a href="https://czp.cuni.cz/en/">Charles University Environment Centre</a> (CZP) under the project of <a href="https://czp.cuni.cz/en/projects/pathways-towards-environmental-sustainability-gacr-expro-2023-2027">Pathways towards Environmental Sustainability (GAČR EXPRO; 2023–2027)</a> with <a href="https://czp.cuni.cz/en/about-us/staff/jan-weinzettel">Dr. Jan Weinzettel</a> and <a href="https://czp.cuni.cz/en/about-us/staff/davina-vackarova">Dr. Davina Vačkářová</a>.
-        
+        <p style="font-size: 18px; text-align: justify">        
         <p style="font-size: 18px; text-align: justify"> 
         Prior to join CZP, he was a postdoc researcher for a joint program between <a href="https://en.psu.ac.th/">Prince of Songkla University (Hatyai campus)</a> and <a href="https://www.gistda.or.th/home.php?lang=EN">Geo-Informatics and Space Technology Development Agency </a>(GISTDA, Public Orgainization), under the framework of <a href="https://www.futureearththailand.org/frontpage">Future Earth Thailand</a>. 
         
