@@ -85,7 +85,7 @@ education:
 ############################################################################################################################################
 work:
   - position: Postdoc Researcher
-    company_name: [Environment Centre](https://czp.cuni.cz/en/), Charles University
+    company_name: Environment Centre ([CZP](https://czp.cuni.cz/en/)), Charles University
     company_url: 'https://czp.cuni.cz/en/'
     company_logo: ''
     date_start: 2022-10-13
@@ -100,7 +100,7 @@ work:
     date_end: 2023-08-30
     summary: |
   
-  - position: Researcher
+  - position: Researcher Assistant (RA) and Freelance Researcher (FR)
     company_name: Prince of Songkhla University (Hatyai campus) & Geo-Informatics & Space Technology Development Agency (GISTDA, Sriracha)
     company_url: 'https://www.psu.ac.th/en/'
     company_logo: ''
