@@ -85,13 +85,21 @@ education:
 ############################################################################################################################################
 work:
   - position: Postdoc Researcher
-    company_name: Environment Centre, Charles University
+    company_name: [Environment Centre](https://czp.cuni.cz/en/), Charles University
     company_url: 'https://czp.cuni.cz/en/'
     company_logo: ''
     date_start: 2022-10-13
     date_end: ''
     summary: |2-
        
+  - position: Researcher
+    company_name: Prince of Songkhla University ([PSU](https://www.psu.ac.th/en/), Hatyai campus) & Geo-Informatics & Space Technology Development Agency ([GISTDA](https://www.gistda.or.th/home.php?lang=EN), Sriracha)
+    company_url: 'https://www.psu.ac.th/en/'
+    company_logo: ''
+    date_start: 2022-08-01
+    date_end: 2023-08-30
+    summary: |
+  
   - position: Researcher
     company_name: Prince of Songkhla University (Hatyai campus) & Geo-Informatics & Space Technology Development Agency (GISTDA, Sriracha)
     company_url: 'https://www.psu.ac.th/en/'
