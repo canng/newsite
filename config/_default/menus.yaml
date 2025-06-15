@@ -19,7 +19,7 @@ main:
   - name: Services 
     url: /service
     weight: 30
-  - name:  - icon: brands/github
+  - name:  icon: brands/github
     url: https://github.com/canng
     weight: 40
 
