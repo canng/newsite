@@ -11,9 +11,6 @@ design:
 # Page sections
 
 
-[Full Curriculum Vitae](https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true)
-
-
 sections:
   - block: resume-experience
     content:
