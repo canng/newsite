@@ -63,56 +63,43 @@ education:
     date_start: 2019-08-01
     date_end: 2022-07-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _“Assessment of Climate Change and Urbanization Impacts on Urban Surface Temperature and Ecosystem Services of Urban Green Spaces”_. Supervised by [Prof. Amnat Chidthaisong](https://www.jgsee.kmutt.ac.th/v3/personnel/assoc-prof-dr-amnat-chidthaisong/). Presented 02 international conferences, Published 03 articles and 01 book chapters.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com' 
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      text: 'Read My Thesis'
+      url: 'https://www.researchgate.net/publication/363465434_Assessment_of_Climate_Change_and_Urbanization_Impacts_on_Urban_Surface_Temperature_and_Ecosystem_Services_of_Urban_Green_Spaces' 
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit 
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.Sc. Land Management
+    institution: Can Tho University (Thesis at KMUTT Geospatial Engineering and Innovation Center)
+    date_start: 2016-08-01
+    date_end: 2018-12-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis on _"Analysis of Urban Heat Island and Energy Consumption in Bangkok Metropolitan Area using Remote Sensing"_ with [Assoc. Prof. Nguyen Thi Hong Diep](https://lrd.ctu.edu.vn/en/gioi-thieu/staffs/12-staff/64-assoc-prof-nguyen-thi-hong-diep.html) and [Dr. Pariwate Varnakovida](https://kirim.kmutt.ac.th/converis/portal/detail/Person/54338034;jsessionid=zvmHwL9_0ucaw9cu72KglOHDF13_5BdtfLqxmzPG.kirim-web?lang=en_GB)
+  
+  - area: B.Eng. Land Management
+    institution: Can Tho University 
+    date_start: 2012-08-01
+    date_end: 2016-02-28
+    summary: |
+      Thesis on _"Studying and Evaluating Ecosystem Service of Rice-Shrimp Farming in An Minh District, Kien Giang Province"_ under supervision of [Dr. Nguyen Thi Hong Diep](https://lrd.ctu.edu.vn/en/gioi-thieu/staffs/12-staff/64-assoc-prof-nguyen-thi-hong-diep.html) 
+
 ############################################################################################################################################
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Postdoc Researcher
+    company_name: Environment Centre, Charles University
+    company_url: 'https://czp.cuni.cz/en/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-10-13
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+       
+  - position: Researcher
+    company_name: Prince of Songkhla University (Hatyai campus) & Geo-Informatics & Space Technology Development Agency (GISTDA, Sriracha)
+    company_url: 'https://www.psu.ac.th/en/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-08-01
+    date_end: 2023-08-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+       
 
 ############################################################################################################################################
 # Skills
@@ -190,6 +177,3 @@ awards:
 ## About Me
 
 Can T. Nguyen is a junior scientist. He is currently working as a researcher at Environmental Footprint Lab, Charles University Environment Centre (CZP) under the project of Pathways towards Environmental Sustainability (GAČR EXPRO; 2023–2027) with Dr. Jan Weinzettel and Dr. Davina Vačkářová. 
-Prior to join CZP, he was a postdoc researcher for a joint program between Prince of Songkla University (Hatyai campus) and Geo-Informatics and Space Technology Development Agency (GISTDA, Public Orgainization), under the framework of Future Earth Thailand. 
-He completed doctoral degree in Environmental Technology in 2022 at The Joint Graduate School of Energy and Environment (JGSEE), King Mongkut’s University of Technology Thonburi (KMUTT, Thailand), under the supervision of Prof. Amnat Chidthaisong. His research focuses were Urbanization and Climate Change Impacts on Urban environment and Nature-based Solutions (NbS) of Urban Green Spaces (UGS). He received B.Eng. and M.Sc. in Land Management from Can Tho University (CTU), Vietnam, in 2016 and 2019, respectively. In 2016, he joined Land Resources Department (LRD), College of Environment and Natural Resources, CTU as a Research and Teaching Assistant (RA/TA), where he closely worked with Assoc. Prof. Nguyen Thi Hong Diep. In 2018, he was a short-term visiting researcher at KMUTT Geospatial Engineering and Innovation Center (KGEO, Thailand), with Dr. Pariwate Varnakovida. 
-His mission is to be an Environmental Geographer, who adopts Remote sensing and Geoinformatics by both quantitative and qualitative approaches to address diverse environmental problems and work towards ensuring environmental and living qualities for involved stakeholders.
