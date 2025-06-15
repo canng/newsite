@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Nguyễn Trọng Cần
+title: Trong Can Nguyen
 
 # Name pronunciation (optional)
-name_pronunciation: Can T. Nguyen
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Can T.
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoc Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,37 +31,42 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:trongcan.ng@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/canntrg
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/cann.trg/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/canng
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/can-t-nguyen-b76b0a1a1/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=vi&authuser=3&user=xnzuZiAAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-0471-4062
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Environmental Geography & Geoinformatics;
+  - Land Change Science;
+  - Human - Environment interactions;
+  - Environment & Natural Resources Management;
+  - Urbanization - Planning - Urban Microclimate Changes;
+  - Environmental Sustainability;
+  - Ecosystem Services;
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. Environment Technology
+    institution: King Mongkut's University of Technology Thonburi
+    date_start: 2019-08-01
+    date_end: 2022-07-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+ 
+ - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -72,7 +77,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
+ 
+ - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -143,11 +149,9 @@ skills:
 
 languages:
   - name: English
+    percent: 95
+  - name: Vietnamese
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +187,10 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Can T. Nguyen is a junior scientist. He is currently working as a researcher at Environmental Footprint Lab, Charles University Environment Centre (CZP) under the project of Pathways towards Environmental Sustainability (GAČR EXPRO; 2023–2027) with Dr. Jan Weinzettel and Dr. Davina Vačkářová.
+
+Prior to join CZP, he was a postdoc researcher for a joint program between Prince of Songkla University (Hatyai campus) and Geo-Informatics and Space Technology Development Agency (GISTDA, Public Orgainization), under the framework of Future Earth Thailand.
+
+He completed doctoral degree in Environmental Technology in 2022 at The Joint Graduate School of Energy and Environment (JGSEE), King Mongkut’s University of Technology Thonburi (KMUTT, Thailand), under the supervision of Prof. Amnat Chidthaisong. His research focuses were Urbanization and Climate Change Impacts on Urban environment and Nature-based Solutions (NbS) of Urban Green Spaces (UGS). He received B.Eng. and M.Sc. in Land Management from Can Tho University (CTU), Vietnam, in 2016 and 2019, respectively. In 2016, he joined Land Resources Department (LRD), College of Environment and Natural Resources, CTU as a Research and Teaching Assistant (RA/TA), where he closely worked with Assoc. Prof. Nguyen Thi Hong Diep. In 2018, he was a short-term visiting researcher at KMUTT Geospatial Engineering and Innovation Center (KGEO, Thailand), with Dr. Pariwate Varnakovida.
+
+His mission is to be an Environmental Geographer, who adopts Remote sensing and Geoinformatics by both quantitative and qualitative approaches to address diverse environmental problems and work towards ensuring environmental and living qualities for involved stakeholders.
