@@ -6,7 +6,7 @@
 # Website name
 title: ome | Cann 
 # Website URL
-baseURL: 'https://canng.github.io/newsite'
+baseURL: 'https://canng.github.io/newsite/'
 
 ############################
 ## LANGUAGE
