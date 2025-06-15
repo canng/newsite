@@ -106,8 +106,8 @@ work:
     company_name: Joint Graduate School of Energy and Environment (JGSEE), King Mongkut’s University of Technology Thonburi, Thailand
     company_url: 'https://www.psu.ac.th/en/'
     company_logo: ''
-    date_start: 2022-08-01
-    date_end: 2023-08-30
+    date_start: 2019-08-01
+    date_end: 2022-07-30
     summary: |
       
 
@@ -138,6 +138,10 @@ skills:
       - name: Python
         description: ''
         percent: 80
+        icon: icons8-python
+      - name: Python
+        description: ''
+        percent: 90
         icon: code-bracket
       - name: Data Science
         description: ''
