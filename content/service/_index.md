@@ -1,6 +1,6 @@
 ---
 title:  Academic services
-summary: Over the past few years, starting from my doctoral program (2021), I have gained several opportunities to contribute to the peer-review process of over 31 Journals from >05 Publishers. My goal is to ensure scientific rigor while still encouraging and helping young scientists improve their research. Contributing to peer-review community, “I will review three manuscripts when I get accepted one paper”.
+summary: 
 date: 2025-06-20
 
 # Featured image
@@ -23,34 +23,35 @@ tags:
 
 ![cover](featured.jpg)
 
+>Over the past few years, starting from my doctoral program (2021), I have gained several opportunities to contribute to the peer-review process of over 31 Journals from >05 Publishers. 
+>
+>My goal is to ensure scientific rigor while still encouraging and helping young scientists improve their research. 
 
-#### **Editorial Board Member**
+<br>
+
+### **Editorial Board Member**
 
 <a href="https://link.springer.com/journal/44327/editorial-board">Discover Cities</a>, Springer (<i>from 09/2024</i>)<br>
 <a href="https://link.springer.com/journal/43621/editorial-board">Discover Sustainability</a>, Springer
 <br>
-<br>
 
-#### **Project Evaluation**
+
+### **Project Evaluation**
 
 <a href="https://www.ncn.gov.pl/en/finansowanie-nauki/konkursy/typy/2">PRELUDIUM</a>, National Science Center, Poland 
-
 <br>
 
-#### **Membership**
+### **Membership**
 
 International Association for Urban Climate<a href="https://urban-climate.org/"> (IAUC)</a><br>
 European Geosciences Union<a href="https://www.egu.eu//"> (EGU)</a><br>
 Global Land Programme <a href="https://glp.earth/users/trong-can-nguyen"> (GLP) </a><br>
 Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/services/networking/young-es-specialists-yess/"> (YESS)</a>
-
-
-<br>
 <br>
 
 <hr>
 
-#### **Peer Reviewer for**
+### **Peer Reviewer for**
 
 #### Elsevier  (11 Journals)
 
@@ -65,8 +66,6 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
 (9) <a href="https://www.sciencedirect.com/journal/urban-climate">Urban Climate</a>; 
 (10) <a href="https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening">Urban Forestry & Urban Greening</a>; 
 (11) <a href="https://www.sciencedirect.com/journal/environmental-and-sustainability-indicators">Environmental and Sustainability Indicators</a>
-
-
 <br>
 
 #### Springer & Springer Nature (7 Journals)
@@ -78,7 +77,6 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
 (5) <a href="https://link.springer.com/journal/10661">Environmental Monitoring and Assessment</a>; 
 (6) <a href="https://link.springer.com/journal/11119">Precision Agriculture</a> 
 (7) <a href="https://link.springer.com/journal/44327">Discover Cities</a>  
-
 <br>
 
 #### Taylor and Francis  (4 Journals)
@@ -87,7 +85,6 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
 (2) <a href="https://www.tandfonline.com/toc/tgsi20/current">Geo-spatial Information Science</a>;
 (3) <a href="https://www.tandfonline.com/journals/oaes21">Sustainable Environment</a>;
 (4) <a href="https://www.tandfonline.com/journals/nurw20">Urban Water Journal</a>;
-
 <br>
 
 #### MDPI  (6 Journals)
@@ -98,7 +95,6 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
 (4) <a href="https://www.mdpi.com/journal/agriculture">Agriculture</a>; 
 (5) <a href="https://www.mdpi.com/journal/sensors">Sensors</a>;
 (6) <a href="https://www.mdpi.com/journal/land">Land</a>
-
 <br>
 
 #### IOP  (4 Journals)
@@ -107,7 +103,6 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
 (2) <a href="https://iopscience.iop.org/journal/2515-7620">Environmental Research Communications</a>; 
 (3) <a href="https://iopscience.iop.org/journal/2752-664X">Environmental Research: Ecology</a>;  
 (4) <a href="https://iopscience.iop.org/journal/2752-5309">Environmental Research: Health</a> 
-
 <br>
 
 #### Other Journals & Conferences
@@ -119,5 +114,4 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
 (5) National GIS Conference in Vietnam (<a href="https://gis2024.ctu.edu.vn/">GIS2024</a>)
 
  
-<br>
 <br>
