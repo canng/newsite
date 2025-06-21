@@ -6,7 +6,7 @@ date: 2025-06-20
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: ''
 
 authors:
   - admin
@@ -118,5 +118,3 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
  
 <br>
 <br>
-
-<hr>
