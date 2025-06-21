@@ -23,9 +23,9 @@ tags:
 
 ![cover](featured.jpg)
 
-<span style="font-size: 12px">Over the past few years, starting from my doctoral program (2021), I have gained several opportunities to contribute to the peer-review process of over 31 Journals from >05 Publishers. </span>
+<span style="font-size: 16px">Over the past few years, starting from my doctoral program (2021), I have gained several opportunities to contribute to the peer-review process of over 31 Journals from >05 Publishers. </span>
 
-<span style="font-size: 12px">My goal is to ensure scientific rigor while still encouraging and helping young scientists improve their research. </span>
+<span style="font-size: 16px">My goal is to ensure scientific rigor while still encouraging and helping young scientists improve their research. </span>
 
 <br>
 
