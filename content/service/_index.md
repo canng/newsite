@@ -14,7 +14,7 @@ sections:
       title: Services
       filters:
         folders:
-          - post
+          - service
     design:
       view: article-grid
       fill_image: false
