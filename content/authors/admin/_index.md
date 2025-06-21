@@ -88,7 +88,7 @@ work:
     company_name: Environment Centre, Charles University, Czech Republic
     company_url: 'https://czp.cuni.cz/en/'
     company_logo: ''
-    date_start: 2022-10-13
+    date_start: 2023-10-13
     date_end: ''
     summary: |2-
       
