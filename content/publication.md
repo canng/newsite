@@ -8,6 +8,9 @@ design:
   spacing: '2rem'
 
 # Page sections
+
+
+
 sections:
   - block: collection
     id: papers
@@ -33,3 +36,5 @@ sections:
       view: citation
 
 ---
+
+![cover](cover_publication.png)
